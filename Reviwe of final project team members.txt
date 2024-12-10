@@ -1,0 +1,46 @@
+Mandapati Ravanth Varma (M16552619)
+
+Responsibilities
+	•	Developed data collection scripts using GitHub API and Google Play scraper.
+	•	Preprocessed the collected data to ensure consistency and structure.
+	•	Created an initial summarization pipeline using NLP techniques.
+	•	Integrated the collection and summarization modules into a single system.
+
+Challenges and Solutions
+	•	Challenge: Handling API rate limits during data collection.
+	•	Solution: Implemented batching techniques and used caching to avoid repeated API calls.
+	•	Challenge: Ensuring seamless integration of data collection and summarization components.
+	•	Solution: Conducted rigorous testing and debugging to resolve issues in data flow.
+
+Key Contributions
+	•	Implemented scripts to collect and preprocess over 10,000 user comments.
+	•	Developed a prototype summarization functionality using Hugging Face Transformers.
+	•	Successfully integrated the collection and summarization modules into a cohesive pipeline.
+
+Outcome
+	•	Automated the collection and preprocessing of user comments from GitHub and Google Play Store.
+	•	Delivered a functional summarization tool that provides key insights for developers.
+
+Sai Ganga Prasuna Golakoti (M16447720)
+
+Responsibilities
+	•	Refined and optimized the summarization models.
+	•	Developed a sentiment classification model using machine learning.
+	•	Prepared a labeled dataset for training and testing the classifier.
+	•	Conducted evaluations to measure the accuracy and usability of the classifier.
+
+Challenges and Solutions
+	•	Challenge: Achieving high accuracy in the sentiment classification model.
+	•	Solution: Experimented with multiple algorithms (Logistic Regression, SVM) and fine-tuned hyperparameters.
+	•	Challenge: Handling imbalanced datasets in classification.
+	•	Solution: Used oversampling techniques to balance the training data.
+
+Key Contributions
+	•	Developed a sentiment classifier with an accuracy of 87% using Logistic Regression.
+	•	Created a confusion matrix and evaluation metrics (precision, recall, F1 score) to validate the classifier’s performance.
+	•	Conducted usability testing and incorporated feedback to improve the system.
+
+Outcome
+	•	Delivered an effective sentiment classification model for identifying negative comments.
+	•	Improved the summarization functionality for better insights.
+
